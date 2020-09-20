@@ -19,7 +19,7 @@ return [
 
     'debug' => env('APP_DEBUG', ''),
 
-    'env' => env('APP_ENV', 'production'),
+    'env' => env('APP_ENV', 'development'),
 
     /*
     |--------------------------------------------------------------------------
